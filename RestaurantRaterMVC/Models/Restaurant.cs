@@ -8,7 +8,7 @@ namespace RestaurantRaterMVC.Models
 {
     public class Restaurant
     {
-        []
+       
         public int RestaurantID { get; set; }
 
         public string Name { get; set; }
